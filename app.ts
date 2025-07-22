@@ -16,7 +16,7 @@ import {pull} from "langchain/hub";
 import {ChatPromptTemplate} from "@langchain/core/prompts";
 
 const llm = new ChatOpenAI({
-    model: "gpt-4o-mini",
+    model: "gpt-4.1",
     temperature: 0
 });
 
