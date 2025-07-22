@@ -1,0 +1,22 @@
+{
+  "name": "langchain_playground",
+  "module": "app.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.49",
+    "@langchain/core": "^0.3.66",
+    "@langchain/langgraph": "^0.3.11",
+    "@langchain/openai": "^0.6.2",
+    "@langchain/textsplitters": "^0.1.0",
+    "hono": "^4.8.5",
+    "langchain": "^0.3.30",
+    "openai": "^5.10.1",
+    "pdf-parse": "^1.1.1"
+  }
+}

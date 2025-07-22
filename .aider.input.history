@@ -1,0 +1,28 @@
+
+# 2025-07-22 13:07:48.083280
++N
+
+# 2025-07-22 13:07:59.350904
++/add import { CheerioWebBaseLoader } from "@langchain/community/document_loaders/web/cheerio";
++
+
+# 2025-07-22 13:08:02.825103
++N
+
+# 2025-07-22 13:08:20.514408
++/add app.ts:24
+
+# 2025-07-22 13:08:26.107661
++N
+
+# 2025-07-22 13:08:28.729831
++/add app.ts
+
+# 2025-07-22 13:08:38.678686
++The file is not store in public
+
+# 2025-07-22 13:09:10.267140
++/ask Explain sym link and when that line is reequired
+
+# 2025-07-22 13:15:39.192850
++Extend with generating multiple queries based on the original user question so the retrieval is greater then before answering combine multiple responses into one broad
